@@ -1,9 +1,9 @@
 # Fping-Comparison
 
-STEP 1 ->
+Step 1 ->
 Install Python (Any Version 2.x/3.x)
 
-STEP 2 -> 
+Step 2 -> 
 Put the  Fping pre logs in file "fpre.txt"  
 
 Step 3 ->
